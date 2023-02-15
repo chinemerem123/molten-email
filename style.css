@@ -84,3 +84,23 @@ font-size: 13px;
 .add a{
     text-decoration: none;
 }
+.btn{
+    text-decoration: none;
+   
+   
+}
+
+.btn button{
+    width: 90%;
+    position: relative;
+    left: calc(50% - 45%);
+    background-color: #3B23E6;
+    color: #fff;
+    padding: 20px;
+    border:none;
+    border-radius: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    box-shadow: 10px 10px 20px rgba(59, 35, 230,0.3);
+
+}
